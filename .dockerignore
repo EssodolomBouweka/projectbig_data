@@ -1,0 +1,7 @@
+# Don't send database volumes to Docker build context
+docker/mnt/
+*.pyc
+__pycache__/
+.git/
+.gitignore
+README.md
